@@ -55,7 +55,7 @@ Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide
 ## 🌐 Me acompanhe por aí
 
 - 📸 [Instagram - @rotaesabor](https://www.instagram.com/rotaesabor)
-- 💼 [LinkedIn - Andreline Lira](https://www.linkedin.com/in/andrelinelira)
+- 💼 [LinkedIn - Andreline Lira](https://www.linkedin.com/in/andrelineflira/)
 - 🎥 [TikTok - @rotaesabor](https://www.tiktok.com/@rotaesabor)
 
 ---
@@ -64,4 +64,4 @@ Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide
 ## 🤝 Vamos conversar?
 
 Se quiser trocar ideias sobre qualidade, automação leve, testes manuais ou processos de QA:  
-[📩 Me chama no LinkedIn](https://www.linkedin.com/in/andrelinelira)
+[📩 Me chama no LinkedIn](https://www.linkedin.com/in/andrelineflira)
