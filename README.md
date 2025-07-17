@@ -33,32 +33,23 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
-## 📚 Artigos & Guias Estratégicos de Qualidade
+## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
 
-Compartilho aqui alguns conteúdos que desenvolvi com base na minha experiência prática como QA estratégica em empresas como QuintoAndar, SoftExpert e Pitang. Todos os repositórios estão públicos no meu GitHub e podem ser adaptados à realidade do seu time:
+Aqui você encontra alguns dos materiais que produzi com muito carinho, baseados nas experiências que vivi implementando processos de qualidade nos times por onde passei 💛
 
----
+🔗 **[Guia Prático de X-Ray para QA](https://github.com/andreline/xray-qualidade/tree/main)**  
+Como uso o X-Ray no dia a dia para organizar regressivos, bugbashs e documentar casos de teste.
 
-### 🔗 [X-Ray na Prática](https://github.com/andreline/xray-qualidade)
+🔗 **[Bug Review: como estruturar uma cultura de observabilidade no time](https://github.com/andreline/bug-review/tree/main)**  
+Artigo sobre reuniões semanais de análise de bugs, logs, métricas e insights técnicos.
 
-Guia completo sobre o uso estratégico do X-Ray no Jira.  
-Você vai entender o que é a ferramenta, como estruturar testes, criar execuções, organizar regressivos e explorar rastreabilidade. Ideal para quem quer padronizar e profissionalizar a documentação de testes.
+🔗 **[BugBash Guide: testes colaborativos com o time todo](https://github.com/andreline/bugbash-guide/tree/main)**  
+Tudo que você precisa saber para organizar um BugBash com o time e melhorar a entrega da sua feature.
 
----
-
-### 🔗 [Bug Review](https://github.com/andreline/bug-review/tree/main)
-
-Um processo robusto para análise contínua de bugs e observabilidade.  
-Aprenda como implementar reuniões técnicas semanais ou quinzenais para acompanhar logs, SACARES (ou chamados), falhas recorrentes e métricas — com foco total em prevenção e cultura de qualidade.
+🔗 **[Estratégia de Testes: entendendo e aplicando a Pirâmide de Testes](https://github.com/andreline/estrategia-teste/tree/main)**  
+Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide e aplicar isso com o time.
 
 ---
-
-### 🔗 [BugBash Guide](https://github.com/andreline/bugbash-guide/tree/main)
-
-Tudo sobre como organizar e conduzir um BugBash de forma eficaz.  
-Uma prática colaborativa de testes manuais com participação de todo o time, voltada para encontrar falhas antes do deploy. Traz estrutura, exemplos de criticidade e modelos de comunicação pós-Bugbash.
-
-
 
 ---
 ## 🌐 Me acompanhe por aí
