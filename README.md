@@ -33,15 +33,32 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
-## 📚 Artigos e Materiais
+## 📚 Artigos & Guias Estratégicos de Qualidade
 
-Aqui você encontra conteúdos exclusivos que produzo como QA estratégica, voltados para processos, ferramentas e práticas reais de qualidade de software.
+Compartilho aqui alguns conteúdos que desenvolvi com base na minha experiência prática como QA estratégica em empresas como QuintoAndar, SoftExpert e Pitang. Todos os repositórios estão públicos no meu GitHub e podem ser adaptados à realidade do seu time:
 
 ---
 
-### ✅ Guia completo sobre o X-Ray no contexto de Qualidade de Software  
-🔗 [Leia agora](https://github.com/andreline/xray-qualidade/tree/main)  
-Um artigo direto ao ponto sobre o que é o X-Ray, como ele funciona, por que usá-lo em times ágeis e como aplico na prática para organizar testes exploratórios, regressivos e bug bash.
+### 🔗 [X-Ray na Prática](https://github.com/andreline/xray-qualidade)
+
+Guia completo sobre o uso estratégico do X-Ray no Jira.  
+Você vai entender o que é a ferramenta, como estruturar testes, criar execuções, organizar regressivos e explorar rastreabilidade. Ideal para quem quer padronizar e profissionalizar a documentação de testes.
+
+---
+
+### 🔗 [Bug Review](https://github.com/andreline/bug-review/tree/main)
+
+Um processo robusto para análise contínua de bugs e observabilidade.  
+Aprenda como implementar reuniões técnicas semanais ou quinzenais para acompanhar logs, SACARES (ou chamados), falhas recorrentes e métricas — com foco total em prevenção e cultura de qualidade.
+
+---
+
+### 🔗 [BugBash Guide](https://github.com/andreline/bugbash-guide/tree/main)
+
+Tudo sobre como organizar e conduzir um BugBash de forma eficaz.  
+Uma prática colaborativa de testes manuais com participação de todo o time, voltada para encontrar falhas antes do deploy. Traz estrutura, exemplos de criticidade e modelos de comunicação pós-Bugbash.
+
+
 
 ---
 ## 🌐 Me acompanhe por aí
