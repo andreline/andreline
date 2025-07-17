@@ -33,16 +33,17 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
+## 📚 Artigos e Materiais
 
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelina&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelina&layout=compact&theme=dracula)
+Aqui você encontra conteúdos exclusivos que produzo como QA estratégica, voltados para processos, ferramentas e práticas reais de qualidade de software.
 
 ---
 
----
+### ✅ Guia completo sobre o X-Ray no contexto de Qualidade de Software  
+🔗 [Leia agora](https://github.com/andreline/xray-qualidade/tree/main)  
+Um artigo direto ao ponto sobre o que é o X-Ray, como ele funciona, por que usá-lo em times ágeis e como aplico na prática para organizar testes exploratórios, regressivos e bug bash.
 
+---
 ## 🌐 Me acompanhe por aí
 
 - 📸 [Instagram - @rotaesabor](https://www.instagram.com/rotaesabor)
