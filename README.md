@@ -47,6 +47,9 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 
 Aqui você encontra alguns dos materiais que produzi com muito carinho, baseados nas experiências que vivi implementando processos de qualidade nos times por onde passei 💛
 
+🔗 **[Analista de Qualidade x Analista de Testes: entenda a diferença](https://github.com/andreline/qa-vs-teste/tree/main)**  
+Artigo explicando a diferença entre testar e garantir qualidade, incluindo onde entra automação, o papel do SDET e como evoluir de testador para QA estratégico.
+
 🔗 **[Guia Prático de X-Ray para QA](https://github.com/andreline/xray-qualidade/tree/main)**  
 Como uso o X-Ray no dia a dia para organizar regressivos, bugbashs e documentar casos de teste.
 
@@ -58,6 +61,11 @@ Tudo que você precisa saber para organizar um BugBash com o time e melhorar a e
 
 🔗 **[Estratégia de Testes: entendendo e aplicando a Pirâmide de Testes](https://github.com/andreline/estrategia-teste/tree/main)**  
 Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide e aplicar isso com o time.
+
+🔗 **[Testes Regressivos x Exploratórios: Guia Estratégico para QA](https://github.com/andreline/regressivo-vs-exploratorio/tree/main)**  
+Artigo explicando a diferença entre testes regressivos e exploratórios, com exemplos práticos e dicas de como aplicar ambos de forma estratégica no time.
+
+
 
 ---
 
