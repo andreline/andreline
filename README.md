@@ -31,6 +31,16 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![Zephyr Scale](https://img.shields.io/badge/Zephyr%20Scale-172B4D?style=flat&logo=atlassian&logoColor=white)](https://www.smartbear.com/product/zephyr-scale/overview/)
+[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)](https://pptr.dev/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
 
 ---
 ## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
