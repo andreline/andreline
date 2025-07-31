@@ -77,7 +77,7 @@ Artigo com sugestões práticas de ferramentas de IA que me ajudam como QA  desd
 
 - 📸 [Instagram - @rotaesabor](https://www.instagram.com/rotaesabor)
 - 💼 [LinkedIn - Andreline Lira](https://www.linkedin.com/in/andrelineflira/)
-- 🎥 [TikTok - @rotaesabor](https://www.tiktok.com/@rotaesabor)
+- 🎥 [TikTok - @rotaesabor](https://www.tiktok.com/@euandreline)
 
 ---
 
