@@ -66,7 +66,7 @@ Artigo explicando como estruturar sua estratégia de testes baseada em pirâmide
 Artigo explicando a diferença entre testes regressivos e exploratórios, com exemplos práticos e dicas de como aplicar ambos de forma estratégica no time.
 
 🔗 **[Ferramentas de IA para QA: como uso inteligência artificial no dia a dia](https://github.com/andreline/ia-para-qa/tree/main)**  
-Artigo com sugestões práticas de ferramentas de IA que me ajudam como QA — desde automação de testes até análise de logs, documentação, estratégia e geração de testes com linguagem natural.
+Artigo com sugestões práticas de ferramentas de IA que me ajudam como QA  desde automação de testes até análise de logs, documentação, estratégia e geração de testes com linguagem natural.
 
 
 
