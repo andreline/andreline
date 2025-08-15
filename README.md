@@ -68,6 +68,11 @@ Artigo explicando a diferença entre testes regressivos e exploratórios, com ex
 🔗 **[Ferramentas de IA para QA: como uso inteligência artificial no dia a dia](https://github.com/andreline/ia-para-qa/tree/main)**  
 Artigo com sugestões práticas de ferramentas de IA que me ajudam como QA  desde automação de testes até análise de logs, documentação, estratégia e geração de testes com linguagem natural.
 
+🔗 **[Guia definitivo pra quem quer começar na área de QA e Testes](https://github.com/andreline/comecando-na-carreira-qa/blob/main/README.md)**  
+Artigo explicando de forma simples como funcionam o Scrum, Kanban, a pirâmide de testes e os principais tipos de estratégias de teste. Ideal pra quem tá começando e quer entender onde o QA atua dentro do time e como contribuir com qualidade em todas as etapas 💙
+
+
+
 
 
 ---
