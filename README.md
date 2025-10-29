@@ -80,9 +80,9 @@ Artigo explicando de forma simples como funcionam o Scrum, Kanban, a pirâmide d
 ---
 ## 🌐 Me acompanhe por aí
 
-- 📸 [Instagram - @rotaesabor](https://www.instagram.com/rotaesabor)
+- 📸 [Instagram - @andrelinelira](https://www.instagram.com/andrelinelira)
 - 💼 [LinkedIn - Andreline Lira](https://www.linkedin.com/in/andrelineflira/)
-- 🎥 [TikTok - @rotaesabor](https://www.tiktok.com/@euandreline)
+- 🎥 [TikTok - @andrelinelira](https://www.tiktok.com/@andrelinelira)
 
 ---
 
