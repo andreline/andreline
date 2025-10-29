@@ -71,6 +71,9 @@ Artigo com sugestões práticas de ferramentas de IA que me ajudam como QA  desd
 🔗 **[Guia definitivo pra quem quer começar na área de QA e Testes](https://github.com/andreline/comecando-na-carreira-qa/blob/main/README.md)**  
 Artigo explicando de forma simples como funcionam o Scrum, Kanban, a pirâmide de testes e os principais tipos de estratégias de teste. Ideal pra quem tá começando e quer entender onde o QA atua dentro do time e como contribuir com qualidade em todas as etapas 💙
 
+🔗 **[Assessment de Qualidade: Um Processo Estratégico de Evolução Contínua](https://github.com/andreline/Assessment-qualidade/blob/main/README.md)**
+Artigo completo explicando o que é um assessment de qualidade, quando aplicar dentro de um time, e como ele ajuda a mapear maturidade, identificar lacunas e criar planos de ação. Ideal para times que estão em reestruturação, iniciando práticas de QA ou buscando elevar o nível de qualidade de forma contínua 💙
+
 
 
 
