@@ -1,6 +1,6 @@
 # 💜 Olá, eu sou a Andreline!
 
-Sou Analista de Qualidade de Software com foco em **estruturar processos**, **melhorar fluxos** e **garantir entregas com excelência**. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua.
+Sou engenheira de Qualidade de Software com foco em **estruturar processos**, **melhorar fluxos** e **garantir entregas com excelência**. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua.
 
 ---
 
@@ -15,6 +15,7 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 - 📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
 - 📎 Experiência com ferramentas como Jira, Azure DevOps, SESuite
 - 🧰 Ferramentas técnicas: Puppeteer, SQL Server, PostgreSQL, Oracle, Postman, Swagger, JMeter
+- 🤖 Automatizo com: Playwright, Puppeteer,  Cypress, Appium e Maestro.
 
 ---
 
@@ -40,6 +41,9 @@ Sou Analista de Qualidade de Software com foco em **estruturar processos**, **me
 [![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)](https://pptr.dev/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)](https://appium.io/)
+[![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat&logo=maestro&logoColor=white)](https://maestro.dev/)
 
 
 ---
