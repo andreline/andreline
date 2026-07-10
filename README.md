@@ -83,9 +83,9 @@ Artigo completo explicando o que é um assessment de qualidade, quando aplicar d
 ---
 ## 🌐 Me acompanhe por aí
 
-- 📸 [Instagram - @andrelinelira](https://www.instagram.com/andrelinelira)
+- 📸 [Instagram - @andrelinelira](https://www.instagram.com/andreline.qa)
 - 💼 [LinkedIn - Andreline Lira](https://www.linkedin.com/in/andrelineflira/)
-- 🎥 [TikTok - @andrelinelira](https://www.tiktok.com/@andrelinelira)
+- 🎥 [TikTok - @andrelinelira](https://www.tiktok.com/@andreline.qa)
 
 ---
 
