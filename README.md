@@ -47,6 +47,15 @@ Sou engenheira de Qualidade de Software com foco em **estruturar processos**, **
 
 
 ---
+## 🎮 Projeto Técnico: QArena
+
+Um projeto que idealizei e conduzi do início ao fim com o apoio do Claude (IA da Anthropic), dando toda a direção técnica e de produto por instrução, do zero até o deploy.
+
+🔗 **[QArena: o playground dos QAs](https://qarenaqa.vercel.app)**
+
+Um ambiente de treino 100% gratuito, com uma loja fictícia completa (cadastro, login, carrinho, cupom, checkout, perfil, pedidos) e 33 bugs plantados de propósito, para quem está aprendendo QA praticar teste manual, exploratório e bug report de verdade, sem depender de um sistema real 💜
+
+---
 ## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
 
 Aqui você encontra alguns dos materiais que produzi com muito carinho, baseados nas experiências que vivi implementando processos de qualidade nos times por onde passei 💛
