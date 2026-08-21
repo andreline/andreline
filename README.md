@@ -55,6 +55,8 @@ Um projeto que idealizei e conduzi do início ao fim com o apoio do Claude (IA d
 
 Um ambiente de treino 100% gratuito, com uma loja fictícia completa (cadastro, login, carrinho, cupom, checkout, perfil, pedidos) e 33 bugs plantados de propósito, para quem está aprendendo QA praticar teste manual, exploratório e bug report de verdade, sem depender de um sistema real 💜
 
+📱 Tem também versão empacotada como app Android: **[Baixar QArena.apk](https://qarenaqa.vercel.app/apk/QArena.apk)**, ótimo para praticar automação mobile com Appium, Maestro ou outra ferramenta.
+
 ---
 ## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
 
