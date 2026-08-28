@@ -6,6 +6,9 @@ Sou engenheira de Qualidade de Software com foco em **estruturar processos**, **
 
 ## 📝 Sobre mim
 
+- 🕹️ Pratico vibe coding: idealizo e conduzo produtos técnicos guiando o Claude (IA da Anthropic) do primeiro requisito ao deploy, dando toda a direção de produto e qualidade por instrução
+- 🎮 Criadora do [QArena](https://qarenaqa.vercel.app), ambiente gratuito de treino pra QAs praticarem teste manual, exploratório e bug report num cenário real
+- 🎓 Criadora do curso [QA do Zero](https://andrelinegfl.hotmart.host/qa-do-zero-a-base-que-todo-analista-de-qualidade-precisa-ter-92190e5b-8be7-4fb9-815a-e6ec4a9197ca), a base que todo analista de qualidade precisa ter
 - 🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
 - 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
 - 📚 Especialista em documentação e gestão de testes com X-Ray integrado ao Jira
@@ -21,6 +24,7 @@ Sou engenheira de Qualidade de Software com foco em **estruturar processos**, **
 
 ## 🛠️ Tecnologias e Ferramentas
 
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Instana](https://img.shields.io/badge/-Instana-000000?style=flat)
@@ -53,7 +57,9 @@ Um projeto que idealizei e conduzi do início ao fim com o apoio do Claude (IA d
 
 🔗 **[QArena: o playground dos QAs](https://qarenaqa.vercel.app)**
 
-Um ambiente de treino 100% gratuito, com uma loja fictícia completa (cadastro, login, carrinho, cupom, checkout, perfil, pedidos) e 33 bugs plantados de propósito, para quem está aprendendo QA praticar teste manual, exploratório e bug report de verdade, sem depender de um sistema real 💜
+Um ambiente de treino 100% gratuito, com um sistema fictício completo (cadastro, login, loja, carrinho, cupom, checkout, perfil, pedidos, área administrativa, recuperação de senha, caixa de e-mail simulada e missões guiadas com níveis) e 81 bugs plantados de propósito, para quem está aprendendo QA praticar teste manual, exploratório e bug report de verdade, sem depender de um sistema real 💜
+
+📄 **[Documentação técnica e README do projeto](https://github.com/andreline/qarena#readme)**
 
 📱 Tem também versão empacotada como app Android: **[Baixar QArena.apk](https://qarenaqa.vercel.app/apk/QArena.apk)**, ótimo para praticar automação mobile com Appium, Maestro ou outra ferramenta.
 
